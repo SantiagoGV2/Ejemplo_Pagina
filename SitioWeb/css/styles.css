@@ -174,7 +174,7 @@ body{
 
 }
 .service > i{
-    font-size: 60px;
+    font-size: 20px;
 
 } 
 .service .subService{
@@ -188,7 +188,7 @@ body{
     height: auto;
     display:inline-block;
     text-align: center;
-    padding: 10px;
+    padding: 12px;
     border-radius: 10px;
     box-shadow: 0 5px 3px #ff004e;
     justify-content: center;
