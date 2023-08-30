@@ -192,7 +192,8 @@ body{
     border-radius: 10px;
     box-shadow: 0 5px 3px #ff004e;
     justify-content: center;
-    transition: all 0.4s;
+    transition: all 0.5s;
+    overflow:hidden;/*Ocultar todo elemento fuera del contenedor*/
 }
 
 .service > p{
@@ -202,4 +203,5 @@ body{
 .service:hover{
     background-color: #ffd1dc;
     border-radius: 10px;
+    transform: scale(1.1);
 }
